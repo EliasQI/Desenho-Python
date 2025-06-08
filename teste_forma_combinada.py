@@ -2,7 +2,7 @@ import turtle
 
 # Inicializa a tela
 tela = turtle.Screen()
-tela.title("Desenho Interativo")
+tela.title("Desenho Interativo!!")
 tela.bgcolor("white")
 
 # Cria o "pincel"
